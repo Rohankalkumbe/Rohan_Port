@@ -1,27 +1,35 @@
-# vCard - Personal portfolio
+# 🚀 Rohan Kalkumbe - Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+# Demo
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/cf90ea38-567d-41aa-ac9e-0949d447493a" />
 
-## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+Welcome to my portfolio! I'm a passionate **Backend Developer, Flutter Developer, and Software Engineer**, with a keen interest in **Data Analyst & Data Science** and solving real-world problems through programming.
 
-## Prerequisites
+## 🌐 Live Portfolio
+🔗 [Visit My Portfolio](#) *(https://rohankalkumbe.github.io/Rohan_Port/)*
 
-Before you begin, ensure you have met the following requirements:
+## 🔥 Skills & Technologies
+- **Programming Languages:** Python, Java, C
+- **Web Development:** HTML5, CSS, JavaScript, PHP, Bootstrap
+- **Databases:** MySQL, MongoDB
+- **Frameworks & Libraries:** Django, Node.js, Flutter
+- **Cloud & DevOps:** AWS, Cloud Computing, Linux, Git
+- **Data Analytics & Visualization:** Power BI, Tableau, MS Excel, Plotly, Matplotlib, Seaborn
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
+## 📜 Experience
+- **Department President** - Led initiatives and projects within my department.
+
+
+---
+💡 *Open to opportunities in Data Science, Backend Development, and Business Analytics.*
+
+
+
+To install, follow these steps:
 
 Linux and macOS:
 
@@ -35,9 +43,10 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## 📫 Contact Me
+📧 Email: rohankalkumbe31@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/rohan-kalkumbe 
+🐙 GitHub: (https://github.com/Rohankalkumbe)
 
 ## License
 
